@@ -1,0 +1,12 @@
+[submodule "microservice_user_authentication"]
+	path = microservice_user_authentication
+	url = git@github.com-personal:amu1996/microservice_user_authentication.git
+[submodule "resume_parser"]
+	path = resume_parser
+	url = git@github.com-personal:amu1996/resume_parser.git
+[submodule "profile_service"]
+	path = profile_service
+	url = git@github.com-personal:amu1996/profile_service.git
+[submodule "email_service"]
+	path = email_service
+	url = git@github.com-personal:amu1996/email_service.git
